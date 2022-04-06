@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TableLayout-ArthmeticCalculator</string>
+    <string name="sum">+</string>
+    <string name="div">/</string>
+</resources>
